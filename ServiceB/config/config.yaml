@@ -1,0 +1,8 @@
+
+username: admin
+password: admin
+host: 127.0.0.1
+port: 8001
+TASK_QUEUE: config_tasks
+REDIS_URL: redis://localhost:6379
+RABBITMQ_URL: amqp://guest:guest@localhost/

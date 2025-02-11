@@ -1,0 +1,6 @@
+TASK_QUEUE: config_tasks
+RESULT_QUEUE: config_results
+RABBITMQ_HOST: localhost
+CERT_PATH: ../certificates/server.crt
+SERVICE_A_URL: https://localhost/api/v1/equipment/cpe/
+REDIS_URL: redis://localhost:6379
